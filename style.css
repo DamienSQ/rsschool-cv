@@ -38,7 +38,6 @@ body {
 }
 
 .footer{
-    
     margin: 0px;
 }
 
@@ -75,9 +74,9 @@ a{
     align-items: center;
     justify-content: space-between ;
     padding:0px 20px;
-    line-height: 30px;
     color: aliceblue;
     background-color: #38AD9C;
+    border-radius: 20px
 }
 
 .main-container {
