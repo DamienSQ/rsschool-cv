@@ -110,24 +110,12 @@ a{
 
 
 img{
-    width: 30%;
+    width: 100%;
     border-radius: 30%;
     box-shadow: 0 0 20px #1C6157;
 }
 
-.name{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background-color: #32AD9B;
-    flex-direction: column;
-    font-size: 30px;
-    border-radius: 50% 20% / 10% 40%;
-    width: 30%;
-    box-shadow: 0 0 20px #020e0c;
-    color: aliceblue;
-    line-height: 1.3px;
-}
+
 
 .section-name{
     display: flex;
